@@ -1,5 +1,5 @@
 ### Eai! Eu sou o Paulo Gabriel 👾
-<div><br/>
+<div style="display: inline_block"><br/>
   
 </div>
 
